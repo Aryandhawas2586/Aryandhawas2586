@@ -131,7 +131,6 @@ AWS infrastructure provisioned and managed using Terraform.
 Python scripts for automation, system administration and DevOps workflows.
 
 ---
----
 
 # 📊 GitHub Stats
 
@@ -148,20 +147,6 @@ Python scripts for automation, system administration and DevOps workflows.
 # 📈 Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Aryandhawas2586&layout=compact&theme=tokyonight&hide_border=true)
-
----
----
-
-# 🎯 2026 Goals
-
-- ☁️ Master AWS Cloud
-- 🐳 Master Docker & Kubernetes
-- 🔄 Build production-level CI/CD pipelines
-- 🏗️ Learn Terraform & Infrastructure as Code
-- 🔐 Learn DevSecOps
-- 📊 Master Prometheus & Grafana
-- 🐍 Improve Python for automation
-- 🚀 Build and deploy real-world Cloud/DevOps projects
 
 ---
 
