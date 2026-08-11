@@ -131,23 +131,25 @@ AWS infrastructure provisioned and managed using Terraform.
 Python scripts for automation, system administration and DevOps workflows.
 
 ---
+---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryandhawas2586&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aryandhawas2586&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryandhawas2586&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aryandhawas2586&theme=tokyonight&hide_border=true)
 
 ---
 
 # 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryandhawas2586&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Aryandhawas2586&layout=compact&theme=tokyonight&hide_border=true)
 
+---
 ---
 
 # 🎯 2026 Goals
