@@ -156,8 +156,8 @@ Python scripts for automation, system administration and DevOps workflows.
 
 | Domain | Skills / Tools | Projects |
 |---|---|---|
-| ☁️ **Cloud (AWS)** | • Amazon EC2<br>• Amazon S3<br>• Application Load Balancer<br>• Auto Scaling<br>• VPC<br>• IAM<br>• AMI<br>• EBS<br>• CloudWatch | • [AWS Application Load Balancer Project](https://github.com/Aryandhawas2586/AWS-load-balancer-project.git)<br>• [Multi-Instance Auto Scaling Project](YOUR_REPO_LINK)<br>• [EC2 Web Server Deployment](YOUR_REPO_LINK) |
-| ⚙️ **DevOps** | • Linux<br>• Git<br>• GitHub<br>• Jenkins<br>• GitHub Actions<br>• CI/CD<br>• Bash<br>• Docker | • [Jenkins CI/CD Pipeline](YOUR_REPO_LINK)<br>• [Dockerized Application](YOUR_REPO_LINK)<br>• [AWS EC2 Deployment](YOUR_REPO_LINK) |
+| ☁️ **Cloud (AWS)** | • Amazon EC2<br>• Amazon S3<br>• Application Load Balancer<br>• Auto Scaling<br>• VPC<br>• AMI<br>• EBS| • [AWS Application Load Balancer Project](https://github.com/Aryandhawas2586/AWS-load-balancer-project.git)<br>• [Multi-Instance Auto Scaling Project](YOUR_REPO_LINK) |
+| ⚙️ **DevOps** | • Linux<br>• Git<br>• GitHub<br>• Jenkins<br>• GitHub Actions<br>• CI/CD<br>• Bash<br>• Docker | • [Python Flask Sever Deployment on AWS EC2 using Jenkins](YOUR_REPO_LINK)• [AWS EC2 Deployment](YOUR_REPO_LINK) |
 | 🏗️ **Infrastructure as Code** | • Terraform<br>• HCL<br>• AWS Infrastructure<br>• Infrastructure Automation | • [AWS Infrastructure with Terraform](YOUR_REPO_LINK)<br>• [Terraform AWS Project](YOUR_REPO_LINK) |
 | 🐍 **Python & Automation** | • Python<br>• Flask<br>• Bash<br>• Automation<br>• REST APIs | • [Python Server Deployment on AWS](YOUR_REPO_LINK)<br>• [Python Automation Scripts](YOUR_REPO_LINK) |
 | 🌐 **Web & Backend** | • HTML<br>• CSS<br>• JavaScript<br>• Node.js<br>• Express.js<br>• REST API | • [Hotel Management System](YOUR_REPO_LINK)<br>• [Expense Tracker](YOUR_REPO_LINK)<br>• [Portfolio Website](YOUR_REPO_LINK) |
@@ -165,3 +165,4 @@ Python scripts for automation, system administration and DevOps workflows.
 | 🐳 **Containers & Orchestration** | • Docker<br>• Kubernetes<br>• Docker Compose<br>• Helm | • [Containerized Web Application](YOUR_REPO_LINK)<br>• [Kubernetes Deployment](YOUR_REPO_LINK) |
 | 🔐 **DevSecOps** | • SonarQube<br>• Trivy<br>• GitHub Actions<br>• Security Scanning<br>• CI/CD Security | • [DevSecOps CI/CD Pipeline](YOUR_REPO_LINK)<br>• [Container Security Project](YOUR_REPO_LINK) |
 | 📊 **Monitoring** | • AWS CloudWatch<br>• Prometheus<br>• Grafana<br>• Logging<br>• Monitoring | • [AWS Infrastructure Monitoring](YOUR_REPO_LINK)<br>• [Prometheus & Grafana Monitoring](YOUR_REPO_LINK) |
+
