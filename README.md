@@ -60,26 +60,12 @@ Currently learning and working with AWS, Linux, Docker, Kubernetes, Terraform, C
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-## 🔐 DevSecOps
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
 ## 🌐 Web Servers & Networking
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-1D1D1D?style=for-the-badge&logo=haproxy&logoColor=white)
-
-## 🐍 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🌐 Full Stack Development
 
@@ -88,14 +74,6 @@ Currently learning and working with AWS, Linux, Docker, Kubernetes, Terraform, C
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ## 🔧 Version Control
 
@@ -124,12 +102,6 @@ Containerized application with Docker and deployed using cloud infrastructure.
 ### 🔄 CI/CD Pipeline
 Automated application build, testing and deployment using GitHub Actions/Jenkins.
 
-### 🏗️ Infrastructure as Code
-AWS infrastructure provisioned and managed using Terraform.
-
-### 🐍 Python Automation
-Python scripts for automation, system administration and DevOps workflows.
-
 ---
 
 # 📊 GitHub Stats
@@ -157,12 +129,6 @@ Python scripts for automation, system administration and DevOps workflows.
 | Domain | Skills / Tools | Projects |
 |---|---|---|
 | ☁️ **Cloud (AWS)** | • Amazon EC2<br>• Amazon S3<br>• Application Load Balancer<br>• Auto Scaling<br>• VPC<br>• AMI<br>• EBS| • [AWS Application Load Balancer Project](https://github.com/Aryandhawas2586/AWS-load-balancer-project.git)<br>• [Multi-Service Auto Scaling Configuration](YOUR_REPO_LINK) |
-| ⚙️ **DevOps** | • Linux<br>• PM2<br>• Jenkins<br>• CI/CD | • [Python Flask Server Deployment on AWS EC2 using Jenkins](YOUR_REPO_LINK)<br>• [Node.js Server Deployment on AWS EC2 using PM2](YOUR_REPO_LINK) |
-| 🏗️ **Infrastructure as Code** | • Terraform<br>• HCL<br>• AWS Infrastructure<br>• Infrastructure Automation | • [AWS Infrastructure with Terraform](YOUR_REPO_LINK)<br>• [Terraform AWS Project](YOUR_REPO_LINK) |
-| 🐍 **Python & Automation** | • Python<br>• Flask<br>• Bash<br>• Automation<br>• REST APIs | • [Python Server Deployment on AWS](YOUR_REPO_LINK)<br>• [Python Automation Scripts](YOUR_REPO_LINK) |
-| 🌐 **Web & Backend** | • HTML<br>• CSS<br>• JavaScript<br>• Node.js<br>• Express.js<br>• REST API | • [Hotel Management System](YOUR_REPO_LINK)<br>• [Expense Tracker](YOUR_REPO_LINK)<br>• [Portfolio Website](YOUR_REPO_LINK) |
-| 🗄️ **Databases** | • MySQL<br>• PostgreSQL<br>• MongoDB<br>• SQL | • [Database Management Project](YOUR_REPO_LINK)<br>• [Full Stack CRUD Application](YOUR_REPO_LINK) |
-| 🐳 **Containers & Orchestration** | • Docker<br>• Kubernetes<br>• Docker Compose<br>• Helm | • [Containerized Web Application](YOUR_REPO_LINK)<br>• [Kubernetes Deployment](YOUR_REPO_LINK) |
-| 🔐 **DevSecOps** | • SonarQube<br>• Trivy<br>• GitHub Actions<br>• Security Scanning<br>• CI/CD Security | • [DevSecOps CI/CD Pipeline](YOUR_REPO_LINK)<br>• [Container Security Project](YOUR_REPO_LINK) |
-| 📊 **Monitoring** | • AWS CloudWatch<br>• Prometheus<br>• Grafana<br>• Logging<br>• Monitoring | • [AWS Infrastructure Monitoring](YOUR_REPO_LINK)<br>• [Prometheus & Grafana Monitoring](YOUR_REPO_LINK) |
-
+| ⚙️ **DevOps** | • Linux<br>• PM2<br>• Jenkins<br>• CI/CD<br>• AWS EC2| • [Python Flask Server Deployment on AWS EC2 using Jenkins](YOUR_REPO_LINK)<br>• [Node.js Server Deployment on AWS EC2 using PM2](YOUR_REPO_LINK) |
+| 💻 **Back-end** | • Python<br>• Flask | • [Flask Deployment on AWS](YOUR_REPO_LINK) |
+| 🌐 **Front-end** | • HTML<br>• CSS<br>• JavaScript | • [Student Registration Form](YOUR_REPO_LINK) |
