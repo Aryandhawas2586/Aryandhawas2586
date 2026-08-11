@@ -129,6 +129,6 @@ Automated application build, testing and deployment using GitHub Actions/Jenkins
 | Domain | Skills / Tools | Projects |
 |---|---|---|
 | ☁️ **Cloud (AWS)** | • Amazon EC2<br>• Amazon S3<br>• Application Load Balancer<br>• Auto Scaling<br>• VPC<br>• AMI<br>• EBS| • [AWS Application Load Balancer Project](https://github.com/Aryandhawas2586/AWS-load-balancer-project.git)<br>• [Multi-Service Auto Scaling Configuration](https://github.com/Aryandhawas2586/Multi-Service-Auto-Scaling-Configuration.git) |
-| ⚙️ **DevOps** | • Linux<br>• PM2<br>• Jenkins<br>• CI/CD<br>• AWS EC2| • [Python Flask Server Deployment on AWS EC2 using Jenkins](YOUR_REPO_LINK)<br>• [Node.js Server Deployment on AWS EC2 using PM2](YOUR_REPO_LINK) |
-| 💻 **Back-end** | • Python<br>• Flask | • [Flask Deployment on AWS](YOUR_REPO_LINK) |
+| ⚙️ **DevOps** | • Linux<br>• PM2<br>• Jenkins<br>• CI/CD<br>• AWS EC2| • [Python Flask Server Deployment on AWS EC2 using Jenkins](https://github.com/Aryandhawas2586/Python-Flask-Server-Deployment-on-AWS-EC2-using-Jenkins-master.git)<br>• [Node.js Server Deployment on AWS EC2 using PM2](https://github.com/Aryandhawas2586/Node.js-Server-Deployment-on-AWS-EC2-using-PM2.git) |
+| 💻 **Back-end** | • Python<br>• Flask | • [Flask Deployment on AWS](https://github.com/Aryandhawas2586/Python-Flask-Server-Deployment-on-AWS-EC2-using-Jenkins-master.git) |
 | 🌐 **Front-end** | • HTML<br>• CSS<br>• JavaScript | • [Student Registration Form](https://github.com/Aryandhawas2586/Student-Registration-Form.git) |
