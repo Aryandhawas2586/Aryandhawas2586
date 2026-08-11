@@ -8,7 +8,7 @@ I am passionate about Cloud Computing, DevOps, Automation and Infrastructure.
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryan-dhawas-044114320)
 
 ---
 
@@ -39,19 +39,19 @@ I am passionate about Cloud Computing, DevOps, Automation and Infrastructure.
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryandhawas2586&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aryandhawas2586&theme=tokyonight)
 
 ---
 
 # 📈 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryandhawas2586&layout=compact&theme=tokyonight)
 
 ---
 
