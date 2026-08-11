@@ -4,7 +4,7 @@
 
 I'm passionate about Cloud Computing, DevOps, Automation, Infrastructure, and building scalable applications.
 
-Currently learning and working with AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Python, and DevSecOps.
+Currently learning and working with AWS, Linux, Docker, Kubernetes, Terraform, CI/CD and Python.
 
 ---
 
@@ -95,9 +95,6 @@ Currently learning and working with AWS, Linux, Docker, Kubernetes, Terraform, C
 
 ### ☁️ AWS Cloud Infrastructure
 AWS EC2, VPC, Load Balancer, Auto Scaling, IAM, S3 and CloudWatch.
-
-### 🐳 Dockerized Application
-Containerized application with Docker and deployed using cloud infrastructure.
 
 ### 🔄 CI/CD Pipeline
 Automated application build, testing and deployment using GitHub Actions/Jenkins.
